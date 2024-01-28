@@ -15,7 +15,7 @@ respectively.**
 1. Clone the repository:
 
 ```
-git clone https://github.com/AndreiGutnik/WaterTracker_Frontend.git
+git clone git clone https://github.com/AndreiGutnik/WaterTracker_Frontend.git
 ```
 
 2. Navigate to the project directory:
