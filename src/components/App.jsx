@@ -15,7 +15,6 @@ const HomePage = lazy(() => import('../pages/HomePage/HomePage'));
 const WelcomePage = lazy(() => import('../pages/WelcomePage/WelcomePage'));
 const SignInPage = lazy(() => import('../pages/SignInPage/SignInPage'));
 const SignUpPage = lazy(() => import('../pages/SignUpPage/SignUpPage'));
-console.log('Test of project');
 
 export const App = () => {
   const dispatch = useDispatch();
