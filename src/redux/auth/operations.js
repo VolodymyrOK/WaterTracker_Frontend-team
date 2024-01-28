@@ -4,6 +4,8 @@ import { toast } from 'react-toastify';
 
 axios.defaults.baseURL = 'https://watertracker-fzxp.onrender.com';
 
+console.log(axios.defaults.baseURL);
+
 export const setAuthHeader = token => {
   axios.defaults.headers.common.Authorization = `Bearer ${token}`;
 };
