@@ -1,7 +1,7 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-axios.defaults.baseURL = 'https://watertracker-ldwc.onrender.com/';
+axios.defaults.baseURL = 'https://watertracker-fzxp.onrender.com/';
 
 export const fetchMonthThunk = createAsyncThunk(
   'month/fetchTodayData',

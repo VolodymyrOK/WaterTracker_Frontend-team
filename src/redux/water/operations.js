@@ -2,7 +2,7 @@ import { createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 import { toast } from 'react-toastify';
 
-axios.defaults.baseURL = 'https://watertracker-ldwc.onrender.com/';
+axios.defaults.baseURL = 'https://watertracker-fzxp.onrender.com/';
 
 export const fetchTodayWater = createAsyncThunk(
   'water/fetchWater',
