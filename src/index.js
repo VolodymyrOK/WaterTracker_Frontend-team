@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <BrowserRouter basename="WaterTracker_Frontend">
           <HelmetProvider>
             <ModalProvider>
-              <App1 />
+              <App />
             </ModalProvider>
           </HelmetProvider>
         </BrowserRouter>
