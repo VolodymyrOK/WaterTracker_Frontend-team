@@ -15,7 +15,7 @@ respectively.**
 1. Clone the repository:
 
 ```
-git clone https://github.com/AndreiGutnik/WaterTracker_Frontend.git
+git clone https://github.com/VolodymyrOK/WaterTracker_Frontend-team.git
 ```
 
 2. Navigate to the project directory:
@@ -82,4 +82,4 @@ npm start
 
 ## Swagger
 
-[Swagger API Documentation](https://watertracker-ldwc.onrender.com/api-docs)
+[Swagger API Documentation](https://watertracker-fzxp.onrender.com/api-docs)
